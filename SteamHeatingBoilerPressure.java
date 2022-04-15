@@ -31,7 +31,7 @@ public class SteamHeatingBoilerPressure
 		double currentPressure;
 		double maximumPressure;
 
-		//input //create object scanner
+		//input //create scanner object
 		Scanner keyboard = new Scanner(System.in); 
 		
 		System.out.print("Enter the rated bursting pressure of the boiler (psi):");
